@@ -1,16 +1,18 @@
-## Hi there 👋
+### Jungwoong Kim · 김정웅
 
-<!--
-**BreadEatBread/BreadEatBread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer. 프론트엔드와 백엔드, IoT 게이트웨이까지 오가며 제품을 만듭니다.
 
-Here are some ideas to get you started:
+**Portfolio** — [woong4252.vercel.app](https://woong4252.vercel.app)
+**Email** — woong4252@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Frontend** · React · Next.js · TypeScript · Ext JS · SlickGrid · Tailwind
+**Backend** · Django · Spring Boot · MyBatis · PostgreSQL / MySQL
+**IoT** · ESP32 · RS485 / Modbus RTU · MQTT
+**DevOps** · AWS EC2 · Docker · nginx · uwsgi
+
+---
+
+Currently at **서울소프트** — SaaS MES + industrial IoT gateway.
+Previously at **굿스트림** — React·Ext JS enterprise systems.
