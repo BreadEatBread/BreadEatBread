@@ -97,10 +97,10 @@ flowchart LR
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BreadEatBread&show_icons=true&theme=github_dark_dimmed&hide_border=true&locale=kr)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BreadEatBread&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BreadEatBread&show_icons=true&theme=github_dark_dimmed&hide_border=true&locale=kr&card_width=500)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BreadEatBread&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8&card_width=400)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BreadEatBread&theme=github-dark-dimmed&hide_border=true&locale=ko)
+![GitHub Streak](https://streak-stats.demolab.com?user=BreadEatBread&theme=github-dark-dimmed&hide_border=true&locale=ko&card_width=500)
 
 </div>
 
