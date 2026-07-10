@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:06b6d4&height=200&section=header&text=김정웅%20·%20Full-stack%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20·%20Django%20풀스택%20—%20화면부터%20데이터까지%20직접%20설계합니다&descSize=16&descAlignY=58)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=560&lines=Full-stack+Developer+·+React+%2B+Django;%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88+%ED%94%84%EB%A1%A0%ED%8A%B8+·+SaaS+%EB%B0%B1%EC%97%94%EB%93%9C;%EA%B7%B8%EB%A6%AC%EA%B3%A0+%EB%82%A8%EB%93%A4%EC%9D%B4+%EB%A9%88%EC%B6%94%EB%8A%94+%EA%B3%B3,+%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%EA%B9%8C%EC%A7%80+%F0%9F%8D%9E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=560&lines=Full-stack+Developer+·+React+%2B+Django;%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88+%ED%94%84%EB%A1%A0%ED%8A%B8+·+SaaS+%EB%B0%B1%EC%97%94%EB%93%9C;%EA%B7%B8%EB%A6%AC%EA%B3%A0+%EB%82%A8%EB%93%A4%EC%9D%B4+%EB%A9%88%EC%B6%94%EB%8A%94+%EA%B3%B3,+%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%EA%B9%8C%EC%A7%80)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-woong4252.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://woong4252.vercel.app)
 [![Email](https://img.shields.io/badge/Email-woong4252%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:woong4252@gmail.com)
