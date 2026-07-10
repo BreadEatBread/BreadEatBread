@@ -93,17 +93,6 @@ flowchart LR
 </tr>
 </table>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BreadEatBread&show_icons=true&theme=github_dark_dimmed&hide_border=true&locale=kr&card_width=500)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BreadEatBread&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8&card_width=400)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=BreadEatBread&theme=github-dark-dimmed&hide_border=true&locale=ko&card_width=500&date_format=%5BY.%5Dn.j)
-
-</div>
-
 <div align="center">
 
 *화면 뒤의 서버, 서버 뒤의 센서까지.* 🍞
